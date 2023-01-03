@@ -1,1 +1,1 @@
-# Typescript-omikuji-app
+# Typescript-omikuji 2023ver
