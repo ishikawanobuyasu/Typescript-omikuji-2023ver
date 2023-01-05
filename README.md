@@ -1,0 +1,3 @@
+# Typescript-omikuji-2023ver
+2023年はうさぎ年ということで、ウサギに関連する結果が出力されるおみくじアプリを作成しました。（出力はコンソール）
+TypescriptでJavascriptをコンパイルしました。
